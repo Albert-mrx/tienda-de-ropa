@@ -41,9 +41,19 @@
 		});
 	}
 </script>
-   <section>
-		<img src="imagenes/p1">
+   <section >
+		<img src="">
    </section>
 
 </article>
+<section>
+	<ul>
+		<li>polos</li><br>
+		<li>camisas</li><br>
+		<li>pantalones</li><br>
+		<li>chompas</li><br>
+			
+	</ul>
+
+</section>
 <?php include 'footer.php'; ?>

@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding: 0;
+
+}
+h1{
+    text-align: center;
+    background-image: url("/imagenes/robert03.jpg");
+
+}ul{
+    border-radius:100;
+}body{
+background-image: url();
+}

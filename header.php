@@ -7,14 +7,15 @@
 		<link href='css/css.css' rel='stylesheet' type='text/css'>
 		<link href='css/bootstrap.min.css' rel='stylesheet' type='text/css'>
 		<link href='css/bootstrap-theme.min.css' rel='stylesheet' type='text/css'>
+		<link href='css/miestilo.css' rel='stylesheet'>
 		
-		<title>Tienda Ropa Online</title>
+		<title>Tienda Ropa </title>
 	</head>
 	
 	<body>
 	<header>
 		<img src='' id='cab'>
-		<h1>Tienda de Ropa</h1>
+		<h1>Tienda de Ropa @ROBERT</h1>
 		<nav class="navbar navbar-inverse" role="navigation" id="supmenu">
 			<ul class="nav nav-pills">
 				<li class="active"><a href='index.php'>Inicio</a></li>
@@ -27,5 +28,6 @@
 				</li>
 			</ul>
 		</nav>
+		
 	</header>
 	
