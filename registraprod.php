@@ -16,6 +16,8 @@ else
 
 <article>
 <div class='container'>
+	<div class="row">
+		<div class="col-4"></div>
 		<form name='regprod' action='enviar/enviaprod.php' method='POST' role="form">
 		<fieldset class="form-group">
 			<label>Ingresa Nombre producto</label><br>
@@ -31,6 +33,7 @@ else
 			<input type='submit' name='envprod' value='Registra'>
 		</fieldset>
 		</form>
+	</div>
 </div>
 </article>
 <?php include 'footer.php' ?>

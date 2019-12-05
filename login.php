@@ -2,15 +2,19 @@
 	include 'header.php';
 ?>
 <article>
-<div class='container'>
+<div class='container '>
 <fieldset class='form-group'>
+<div class="row">
+	<div class="col-4">
 <form name="login" action="<?php echo $_SERVER['PHP_SELF']; ?>" method='POST'>
 <label>Usuario</label><br/>
 <input type='text' name='usuario'><br>
 <label>Contraseña</label><br>
 <input type='password' name='contsna'><br>
 <input type='submit' name='enviarlog' id='button1' value='Inicia' class="btn btn-default">
+    </div>
 </form>
+</div>
 </fieldset>
 </div>
 <a href='registraus.php'>Registrarte</a>

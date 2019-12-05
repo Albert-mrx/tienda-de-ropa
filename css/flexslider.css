@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding: 0;
+}.flexslider{
+    width: 100%;
+    position:relative;
+}.slides{
+    overflow:hidden;
+}.slides img{
+    width: 100%;
+}.slides,
+.flex-control-nav{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.flex-control-nav{
+    width: 100%;
+    text-align: center;
+}
+.flex-control-li{
+    display: inline-block;
+    margin: 0 6px;
+}
+.flex-control-nav li a{
+    display: block;
+    background: #777777;
+}

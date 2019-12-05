@@ -48,10 +48,37 @@
 </article>
 <section>
 	<ul>
-		<li>polos</li><br>
-		<li>camisas</li><br>
-		<li>pantalones</li><br>
-		<li>chompas</li><br>
+		<strong><li>polos</li><br></strong>
+		 <img src="imagenes/p1.jpg">
+		 <img src="imagenes/p2.jpg">
+		 <img src="imagenes/p3.jpg">
+        <hr/>
+		<strong><li>camisas</li><br></strong>
+		<img src="imagenes/m1.jpg">
+		<img src="imagenes/m2.jpg">
+		<img src="imagenes/m3.jpg">
+		<img src="imagenes/m4.jpg">
+		<img src="imagenes/m5.jpg">
+		<img src="imagenes/m6.jpg">
+		<img src="imagenes/m7.jpg">
+		<img src="imagenes/m9.jpg">
+		<hr/>
+		<strong><li>pantalones</li><br></strong>
+		<img src="imagenes/p.jpg"> 
+		<img src="imagenes/p40.jpg">
+		<img src="imagenes/p50.jpg">
+		<img src="imagenes/p60.jpg">
+		<img src="imagenes/p70.jpg">
+		<img src="imagenes/p10.jpg">
+		<img src="imagenes/p20.jpg">
+		<strong><li >chompas</li><br></strong>
+		<hr/>
+		<img src="imagenes/c1.jpg">
+		<img src="imagenes/c2.jpg">
+		<img src="imagenes/c3.jpg">
+		<img src="imagenes/c4.jpg">
+		<img src="imagenes/c5.jpg">
+		<img src="imagenes/c6.jpg">
 			
 	</ul>
 

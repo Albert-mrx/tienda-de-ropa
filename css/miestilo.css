@@ -5,10 +5,30 @@
 }
 h1{
     text-align: center;
-    background-image: url("/imagenes/robert03.jpg");
+    background: #06f5f5;
+    font-size:50px;
 
-}ul{
+}
+ul{
     border-radius:100;
-}body{
-background-image: url();
+}
+body{
+background:orange;
+clear:both;
+
+}
+#pie{
+    border-top:8px solid #999999;
+}.container{
+background: paleturquoise;
+text-align: center;
+
+}footer{
+    background: rgb(0, 0, 0);
+    margin: 9px;
+    padding: 20px;
+}
+footer ul{
+    margin:top;
+    text-align: center;
 }

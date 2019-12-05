@@ -1,3 +1,4 @@
+
 body
 {
 	width: 80%;
@@ -14,10 +15,9 @@ body
 h1
 {
 	float:left;
-	
+	background: orange;
 }
 #cab
 {
 	float: left;
-	
 }
